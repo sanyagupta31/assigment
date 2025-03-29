@@ -1,0 +1,7 @@
+[
+    {"name":"Alice","roll":101,"grade":85},
+    {"name":"Bob","roll":102,"grade":78},
+    {"name":"Charlie","roll":103,"grade":92},
+    {"name":"David","roll":104,"grade":88},
+    {"name":"Eve","roll":105,"grade":95}
+]

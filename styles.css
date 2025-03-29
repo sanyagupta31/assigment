@@ -1,0 +1,21 @@
+teble{
+    width:100%;
+    border-collapse:collapse;
+
+}
+th,td{
+    border:1px solid black;
+    padding:10px;
+    text-align:left;
+}
+.highlight{
+    background-color:rgb(117, 187, 117);
+    font-weight: bold;
+}
+input{
+    width:100%;
+    padding:10px;
+    margin:5px 0;
+    border:1px solid #ccc;
+    border-radius:4px;
+}
